@@ -1,4 +1,4 @@
-# Face Reconstruction GAN
+# Identity-Preserving Face Reconstruction under Occlusion using Generative Adversarial Networks
 
 A deep learning framework for restoring occluded facial images using Generative Adversarial Networks with identity-aware supervision.
 

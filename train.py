@@ -301,11 +301,11 @@ def train(
 
 if __name__ == "__main__":
     train(
-        image_dir="celeba_1000",
+        image_dir="celeba",
         epochs=25,
         batch_size=8,
         image_size=128,
         mask_type="mixed",
         save_interval=5,
-        save_dir="output_new_2"
+        save_dir="output"
     )
